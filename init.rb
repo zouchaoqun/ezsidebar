@@ -27,7 +27,7 @@ Redmine::Plugin.register :redmine_ezsidebar do
   version '0.1.0'
   url 'http://ezwork.techcon.thtf.com.cn/projects/ezwork'
   author_url 'mailto:zouchaoqun@gmail.com'
-  settings :default => {'sidebar_content' => '[input html code here]'}, :partial => 'settings/settings'
+  settings :default => {'sidebar_content' => '[input html code here]'}, :partial => 'settings/ezsidebar'
   
 
 end
