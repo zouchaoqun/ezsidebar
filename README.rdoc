@@ -1,4 +1,4 @@
-=== ezSidebar Plugin 0.1.0
+=== ezSidebar Plugin 0.1.1
 
 This is a plugin to make it easy to add content(like google ads) to redmine' right sidebar.
 ONLY compatible with Redmine 0.9 or last devel.
@@ -24,6 +24,11 @@ Installed plugins are listed on 'Admin -> Plugin' screen.
 1. Able to choose projects and modules where to add the content.
 
 2. Able to input distinct content for different projects.
+
+=== Changelog
+
+0.1.1 Change setting page's view filename to avoid conflicts with other plugins
+0.1.0 First release
 
 === Contact info
 

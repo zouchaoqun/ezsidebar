@@ -24,7 +24,7 @@ Redmine::Plugin.register :redmine_ezsidebar do
   name 'Redmine ezSidebar plugin'
   author 'Zou Chaoqun'
   description 'This is a plugin for Redmine to make easy to insert content to its sidebar'
-  version '0.1.0'
+  version '0.1.1'
   url 'http://ezwork.techcon.thtf.com.cn/projects/ezwork'
   author_url 'mailto:zouchaoqun@gmail.com'
   settings :default => {'sidebar_content' => '[input html code here]'}, :partial => 'settings/ezsidebar'
